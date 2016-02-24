@@ -1,0 +1,12 @@
+Source: workshop-prueba2
+Maintainer: Plan Ceibal <apt@plan.ceibal.edu.uy>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 9)
+
+Package: workshop-prueba2
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Paquete de Ejemplo - CAMBIAR 
+ workshop-prueba2 realiza una tarea - CAMBIAR.
